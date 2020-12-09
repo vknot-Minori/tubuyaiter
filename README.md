@@ -7,10 +7,15 @@
 - Django 3.1.1
 
 ## 前準備
-仮想環境を作成し、以下を実行します。
+ソースコードのCloneをします。
+```
+$ git clone https://github.com/jsl-webcourse/tubuyaiter.git
+```
 
+仮想環境を作成し、以下を実行します。
 venvの場合
 ```
+$ cd tubuyaiter
 $ python3.8 -m venv env 
 $ source env/bin/activate
 ```
