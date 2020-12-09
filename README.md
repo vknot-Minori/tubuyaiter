@@ -23,3 +23,8 @@ $ source env/bin/activate
 ```
 $ pip install -r requirements.txt
 ```
+
+マイグレーションをする
+```
+$ python manage.py migrate
+```
