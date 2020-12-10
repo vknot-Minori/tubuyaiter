@@ -1,1 +1,1 @@
-web:gunicorn tubuyaiter.wsgi --log-file -
+web: gunicorn tubuyaiter.wsgi --log-file -
